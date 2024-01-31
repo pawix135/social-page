@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+
+@layer base {
+  p {
+    @apply font-[14px];
+  }
+  body {
+    @apply bg-off-black px-5;
+  }
+}
