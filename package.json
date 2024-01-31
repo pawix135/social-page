@@ -1,8 +1,9 @@
 {
   "name": "social-page",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "version": "0.1.0",
   "type": "module",
+  "homepage": "https://pawix135.github.io/social-page",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
