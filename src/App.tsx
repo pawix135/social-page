@@ -5,7 +5,7 @@ function App() {
     <div className="min-h-screen grid place-items-center">
       <div className="md:min-w-[475px] md:max-w-[700px] lg:max-w-[700px] rounded-lg bg-dark-grey space-y-6 flex flex-col p-10">
         <img
-          src="/avatar-jessica.jpeg"
+          src="avatar-jessica.jpeg"
           alt="Jessica"
           className="rounded-full w-[75px] h-[75px] md:w-[125px] md:h-[125px] self-center"
         />
